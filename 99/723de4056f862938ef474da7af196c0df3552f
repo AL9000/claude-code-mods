@@ -1,0 +1,33 @@
+README.md
+  s_5778492627e577::t_545afa1a830ede 18,82
+context-pet/.claude-plugin/plugin.json
+  s_5778492627e577::t_98a67fca2853da 3
+context-pet/hooks/register.tsx
+  s_5778492627e577::t_7570a21d891a03 10-13,85-90,93,128-135
+context-pet/tests/context-pet.test.ts
+  s_5778492627e577::t_dd39c90cd69c7d 9,139-162
+quota-pet/.claude-plugin/plugin.json
+  s_5778492627e577::t_d8f8c3dca1f153 3
+quota-pet/hooks/register.tsx
+  s_5778492627e577::t_eb2abae777fce8 21-24,75-80,85-90,124-131
+quota-pet/tests/quota-pet.test.ts
+  s_5778492627e577::t_5e5d99d788cb61 19,159-182
+context-pet/tsconfig.json
+  s_5778492627e577::t_616fd04f0ba937 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "99723de4056f862938ef474da7af196c0df3552f",
+  "prompts": {},
+  "sessions": {
+    "s_5778492627e577": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a63bd1db-f65d-4ea3-96ef-bb60b6a369b6",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Julien Marzin <julien.marzin@lengow.com>"
+    }
+  }
+}
